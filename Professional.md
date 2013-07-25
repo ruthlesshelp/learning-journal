@@ -1,4 +1,3 @@
-
 ### 2013.07.25
 
 #### Static code analysis for Python
@@ -9,7 +8,7 @@ It scans for violation xml files in the build workspace. Gathers the violations 
 
 Supported types of interest:
 - pylint http://www.logilab.org/857
-- jslint http://www.jslint.com/lint.html]
+- jslint http://www.jslint.com/lint.html
 - pep8 https://github.com/jcrocholl/pep8
 
 
