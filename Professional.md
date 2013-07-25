@@ -13,5 +13,6 @@ Supported types of interest:
 
 
 Learn about ... PyChecker
-http://www.findbestopensource.com/product/pychecker
-https://pypi.python.org/pypi/PyChecker/0.8.12
+
+- Backgroud http://www.findbestopensource.com/product/pychecker
+- PyPI https://pypi.python.org/pypi/PyChecker/0.8.12
