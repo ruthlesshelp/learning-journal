@@ -8,8 +8,8 @@ It scans for violation xml files in the build workspace. Gathers the violations 
 
 Supported types of interest:
 - pylint http://www.logilab.org/857
-- jslint http://www.jslint.com/lint.html
 - pep8 https://github.com/jcrocholl/pep8
+- jslint http://www.jslint.com/lint.html
 
 
 Learn about ... PyChecker
