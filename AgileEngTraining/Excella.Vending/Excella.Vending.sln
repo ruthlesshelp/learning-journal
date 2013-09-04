@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excella.Vending.Machine", "Excella.Vending.Machine\Excella.Vending.Machine.csproj", "{EF9B3708-9EAA-425A-85E3-8D527AA7B35D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{5B5CAA29-FD7B-419B-9E92-A111AFA8B89A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unit", "Unit", "{A6D0B7C2-BD31-4BF2-BDCE-072453C36F4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.Unit.Excella.Vending.Machine", "Tests.Unit.Excella.Vending.Machine\Tests.Unit.Excella.Vending.Machine.csproj", "{54ED242F-7732-4942-96E4-8CD50A7D2C2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF9B3708-9EAA-425A-85E3-8D527AA7B35D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9B3708-9EAA-425A-85E3-8D527AA7B35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9B3708-9EAA-425A-85E3-8D527AA7B35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9B3708-9EAA-425A-85E3-8D527AA7B35D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54ED242F-7732-4942-96E4-8CD50A7D2C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54ED242F-7732-4942-96E4-8CD50A7D2C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54ED242F-7732-4942-96E4-8CD50A7D2C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54ED242F-7732-4942-96E4-8CD50A7D2C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A6D0B7C2-BD31-4BF2-BDCE-072453C36F4D} = {5B5CAA29-FD7B-419B-9E92-A111AFA8B89A}
+		{54ED242F-7732-4942-96E4-8CD50A7D2C2E} = {A6D0B7C2-BD31-4BF2-BDCE-072453C36F4D}
+	EndGlobalSection
+EndGlobal
