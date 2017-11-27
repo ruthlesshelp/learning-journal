@@ -226,7 +226,7 @@ http://jonathanbecher.com/2014/04/14/five-cognitive-distortions-people-get-stuff
 
 Interestingly, I think the best leaders I have known have *both* but not too much of either:
 -- _the wise leader_: the compassion and judgement of the Covey model
--- _the benign dictator_: very high standards (perfectionism), indifference to status quo, and real ambition of the Dearing model (edited)
+-- _the benign dictator_: very high standards (perfectionism), indifference to status quo, and real ambition of the Dearing model
 
 ### The Evolution of the Employee
 ![The Evolution of the Employee](./the_evolution_of_the_employee.jpg)
@@ -251,7 +251,7 @@ TL;DR — the first three are associated with below-average performance, the lat
 - *becoming more "sensitive"* (aware of a greater range of information, from within and around you)
 - *making sense of this information differently* (from the perspective of a more complex "action-logic" category)
 - *acting differently* (consciously choosing responses that are more aligned with your intention, as opposed to reacting out of habit)
-https://hbr.org/2005/04/seven-transformations-of-leadership (edited)
+https://hbr.org/2005/04/seven-transformations-of-leadership
 
 ## My reading list
 
